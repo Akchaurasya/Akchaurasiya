@@ -34,7 +34,7 @@
 ## Links
 - Google Scholar: https://scholar.google.com
 - LinkedIn: https://linkedin.com/in/amit-chaurasiya-bm244
-- GitHub: https://github.com/your_username
+- GitHub: https://github.com/Akchaurasiya
 
 ## Contact
 Email: your_email@university.edu
